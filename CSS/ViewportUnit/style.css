@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aquamarine;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    padding: 2rem;
+    padding-top: 15rem;
+}
+header p {
+    margin: 5px;
+}
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+    border: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+}

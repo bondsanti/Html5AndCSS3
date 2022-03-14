@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+.item{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
